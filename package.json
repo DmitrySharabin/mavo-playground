@@ -1,0 +1,10 @@
+{
+  "name": "mavo-playground",
+  "version": "0.0.1",
+  "author": "Dmitry Sharabin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mavo": "^0.2.0"
+  }
+}
